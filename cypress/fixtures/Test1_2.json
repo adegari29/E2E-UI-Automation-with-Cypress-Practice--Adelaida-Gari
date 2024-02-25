@@ -1,0 +1,26 @@
+{
+  "testCase1": {
+    "url": "https://sqademosatp.net/watch/",
+    "name": "Ade",
+    "lastname": "Gari",
+    "address": "Calle Falsa 123",
+    "postcode": "02210",
+    "city":"Barcelona",
+    "email":"doide2911@gmail.com",
+    "confirmOrder":"We've received your order"
+  },
+  "testCase2": {
+    "url": "https://sqademosatp.net/watch/",
+    "confirmOrder":"We've received your order"
+  },
+  "testCase3": {
+    "url": "https://sqademosatp.net/watch/",
+    "name": "Ade",
+    "lastname": "Ade",
+    "address": "Calle Falsa 123",
+    "postcode": "02210",
+    "city":"Barcelona",
+    "email":"doide2911@gmail.com",
+    "confirmOrder":"Your order has processed"
+  }
+}
